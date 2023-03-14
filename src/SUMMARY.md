@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](README.md)
+[Changelog](CHANGELOG.md)
 
 # Mechanics
 - [Movecraft](movecraft.md)
